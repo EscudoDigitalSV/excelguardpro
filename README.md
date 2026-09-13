@@ -168,7 +168,7 @@ Esta función es ideal para:
 
 <td align="center">
 <a href="https://github.com/EscudoDigitalSV/excelguardpro/releases/download/v1.0.0/ExcelGuardPro.exe">
-<img src="https://img.shields.io/badge/VERSION_FREE-blue?style=for-the-badge&logo=windows11&logoColor=white">
+<img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 </a>
 </td>
 
