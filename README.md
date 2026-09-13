@@ -69,7 +69,7 @@ Esta función es ideal para:
 <table>
 <tr>
 <th>Funciones</th>
-<th>Gratis (Free Edition)</th>
+<th>Gratis</th>
 <th>Licencia Pro (v1.0.0)</th>
 </tr>
 
@@ -159,7 +159,7 @@ Esta función es ideal para:
 
 <tr>
 <td><b>Duración</b></td>
-<td align="center"><b>GRATIS PARA SIEMPRE</b></td>
+<td align="center"><b>GRATIS</b></td>
 <td align="center"><b>VITALICIA / TRIAL 15 DÍAS</b></td>
 </tr>
 
