@@ -70,7 +70,7 @@ Esta función es ideal para:
 <tr>
 <th>Funciones</th>
 <th>Gratis</th>
-<th>Licencia Pro (v1.0.0)</th>
+<th>Licencia Vitalicia</th>
 </tr>
 
 <tr>
