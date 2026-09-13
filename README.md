@@ -167,13 +167,13 @@ Esta función es ideal para:
 <td><b>Acción</b></td>
 
 <td align="center">
-<a href="https://github.com/escudodigitalsv/excelguard/releases">
+<a href="https://github.com/EscudoDigitalSV/excelguardpro/releases/download/v1.0.0/ExcelGuardPro.exe">
 <img src="https://img.shields.io/badge/VERSION_FREE-blue?style=for-the-badge&logo=windows11&logoColor=white">
 </a>
 </td>
 
 <td align="center">
-<a href="https://escudodigitalsv.com/producto/excel-guard-pro">
+<a href="https://escudodigitalsv.com/excelguardpro">
 <img src="https://img.shields.io/badge/🛒_COMPRAR_PRO-escudodigitalsv.com-blue?style=for-the-badge">
 </a>
 </td>
@@ -185,7 +185,7 @@ Esta función es ideal para:
 ---
 
 <p align="center">
-  <a href="https://escudodigitalsv.com/producto/excel-guard-pro">
+  <a href="https://github.com/escudodigitalsv/excelguardpro/release">
     <img src="https://img.shields.io/badge/LICENCIA_PRO-RSA--4096_SECURITY-28a745?style=for-the-badge&logo=shield" alt="Licencia Pro">
   </a>
 </p>
