@@ -185,8 +185,8 @@ Esta función es ideal para:
 ---
 
 <p align="center">
-  <a href="https://github.com/escudodigitalsv/excelguardpro/release">
-    <img src="https://img.shields.io/badge/LICENCIA_PRO-RSA--4096_SECURITY-28a745?style=for-the-badge&logo=shield" alt="Licencia Pro">
+  <a href="https://github.com/EscudoDigitalSV/easyfolderlock/releases">
+    <img src="https://img.shields.io/github/downloads/escudodigitalsv/easyfolderlock/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
   </a>
 </p>
 
