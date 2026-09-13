@@ -160,7 +160,7 @@ Esta función es ideal para:
 <tr>
 <td><b>Duración</b></td>
 <td align="center"><b>GRATIS</b></td>
-<td align="center"><b>VITALICIA / TRIAL 15 DÍAS</b></td>
+<td align="center"><b>PARA SIEMPRE</b></td>
 </tr>
 
 <tr>
